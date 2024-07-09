@@ -1,0 +1,10 @@
+D:\SYSTEM-FILES\desktop\C#\signing\menu.exe.config
+D:\SYSTEM-FILES\desktop\C#\signing\menu.exe
+D:\SYSTEM-FILES\desktop\C#\signing\menu.pdb
+D:\SYSTEM-FILES\desktop\C#\cleanmgr\menu\obj\Debug\menu.csproj.AssemblyReference.cache
+D:\SYSTEM-FILES\desktop\C#\cleanmgr\menu\obj\Debug\menu.menu.resources
+D:\SYSTEM-FILES\desktop\C#\cleanmgr\menu\obj\Debug\menu.Properties.Resources.resources
+D:\SYSTEM-FILES\desktop\C#\cleanmgr\menu\obj\Debug\menu.csproj.GenerateResource.cache
+D:\SYSTEM-FILES\desktop\C#\cleanmgr\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+D:\SYSTEM-FILES\desktop\C#\cleanmgr\menu\obj\Debug\menu.exe
+D:\SYSTEM-FILES\desktop\C#\cleanmgr\menu\obj\Debug\menu.pdb

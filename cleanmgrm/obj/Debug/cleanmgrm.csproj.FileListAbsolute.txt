@@ -1,0 +1,10 @@
+D:\SYSTEM-FILES\desktop\C#\signing\cleanmgrm.exe.config
+D:\SYSTEM-FILES\desktop\C#\signing\cleanmgrm.exe
+D:\SYSTEM-FILES\desktop\C#\signing\cleanmgrm.pdb
+D:\SYSTEM-FILES\desktop\C#\cleanmgr\cleanmgrm\obj\Debug\cleanmgrm.csproj.AssemblyReference.cache
+D:\SYSTEM-FILES\desktop\C#\cleanmgr\cleanmgrm\obj\Debug\cleanmgrm.cleanmgrm.resources
+D:\SYSTEM-FILES\desktop\C#\cleanmgr\cleanmgrm\obj\Debug\cleanmgrm.Properties.Resources.resources
+D:\SYSTEM-FILES\desktop\C#\cleanmgr\cleanmgrm\obj\Debug\cleanmgrm.csproj.GenerateResource.cache
+D:\SYSTEM-FILES\desktop\C#\cleanmgr\cleanmgrm\obj\Debug\cleanmgrm.csproj.CoreCompileInputs.cache
+D:\SYSTEM-FILES\desktop\C#\cleanmgr\cleanmgrm\obj\Debug\cleanmgrm.exe
+D:\SYSTEM-FILES\desktop\C#\cleanmgr\cleanmgrm\obj\Debug\cleanmgrm.pdb
