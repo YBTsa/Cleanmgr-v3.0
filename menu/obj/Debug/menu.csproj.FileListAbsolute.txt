@@ -1,0 +1,10 @@
+D:\SYSTEM-FILES\desktop\Cleanmgr-2024\Cleanmgr\menu\bin\Debug\menu.exe.config
+D:\SYSTEM-FILES\desktop\Cleanmgr-2024\Cleanmgr\menu\bin\Debug\menu.exe
+D:\SYSTEM-FILES\desktop\Cleanmgr-2024\Cleanmgr\menu\bin\Debug\menu.pdb
+D:\SYSTEM-FILES\desktop\Cleanmgr-2024\Cleanmgr\menu\obj\Debug\menu.csproj.AssemblyReference.cache
+D:\SYSTEM-FILES\desktop\Cleanmgr-2024\Cleanmgr\menu\obj\Debug\menu.menu.resources
+D:\SYSTEM-FILES\desktop\Cleanmgr-2024\Cleanmgr\menu\obj\Debug\menu.Properties.Resources.resources
+D:\SYSTEM-FILES\desktop\Cleanmgr-2024\Cleanmgr\menu\obj\Debug\menu.csproj.GenerateResource.cache
+D:\SYSTEM-FILES\desktop\Cleanmgr-2024\Cleanmgr\menu\obj\Debug\menu.csproj.CoreCompileInputs.cache
+D:\SYSTEM-FILES\desktop\Cleanmgr-2024\Cleanmgr\menu\obj\Debug\menu.exe
+D:\SYSTEM-FILES\desktop\Cleanmgr-2024\Cleanmgr\menu\obj\Debug\menu.pdb
